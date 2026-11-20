@@ -1,0 +1,5 @@
+Countries,Classical joint states,Minimum qubits,Quantum basis states,Unused basis states,Padding (%),Classical vector memory (KB),Quantum vector memory (KB)
+2,100,7,128,28,21.875,0.78125,1.0
+3,1000,10,1024,24,2.34375,7.8125,8.0
+4,10000,14,16384,6384,38.96484375,78.125,128.0
+5,100000,17,131072,31072,23.7060546875,781.25,1024.0
