@@ -1,6 +1,0 @@
-countries,qubits,qae_power,grover_applications,state_preparation_depth,state_preparation_gates,state_preparation_cx,total_depth,total_gates,cx_gates,u_gates
-3,10,0,0,2027,2036,1013,2027,2036,1013,1023
-3,10,1,1,2027,2036,1013,7883,8369,4351,4018
-3,10,2,2,2027,2036,1013,13739,14702,7689,7013
-3,10,4,4,2027,2036,1013,25451,27368,14365,13003
-3,10,8,8,2027,2036,1013,48875,52700,27717,24983

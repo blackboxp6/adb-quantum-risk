@@ -1,5 +1,0 @@
-Depth,U gates,CX gates,Total gates,Component
-241,127,120,247,State preparation A
-241,127,120,247,Inverse preparation A†
-244,127,126,253,Phase oracle
-130,148,122,270,Zero reflection S0

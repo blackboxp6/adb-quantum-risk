@@ -1,7 +1,26 @@
-.env
-.env.local
-node_modules/
+# Python environment
+.venv/
 venv/
+env/
+
+# Python cache
 __pycache__/
 *.pyc
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated outputs
+outputs/

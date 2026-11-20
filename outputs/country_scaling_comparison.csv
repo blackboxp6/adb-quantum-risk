@@ -1,3 +1,0 @@
-countries,valid_outcomes,qubits,exact_probability_percent,estimated_probability_percent,absolute_error_percentage_points,relative_error_percent,total_shots,grover_applications,outcome_growth_vs_previous,qubit_growth_vs_previous
-2,100,7,1.2046495708,1.2064728506,0.0018232798,0.151354,16384,28672,,
-3,1000,10,0.7263678323,0.7240406907,0.0023271416,0.320381,16384,28672,10.0,1.4285714285714286
