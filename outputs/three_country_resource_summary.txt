@@ -1,0 +1,28 @@
+
+THREE-COUNTRY RESOURCE SUMMARY
+
+Exact probability: 0.726367832260%
+
+CLASSICAL MONTE CARLO
+Samples: 1,000,000
+Relative error: 0.045730%
+
+QUANTUM MLAE
+Measurement shots: 20,480
+Grover applications: 61,440
+State preparations: 20,480
+Relative error: 0.692645%
+
+QUANTUM GATES
+CX gates: 225,832,960
+U gates: 205,025,280
+Total elementary gates: 430,858,240
+
+EXACT CLASSICAL ENUMERATION
+Outcomes: 1,000
+Relative error: 0%
+
+IMPORTANT:
+Classical samples, quantum shots, Grover applications,
+and quantum gates are different resource units.
+They must not be treated as directly equivalent.

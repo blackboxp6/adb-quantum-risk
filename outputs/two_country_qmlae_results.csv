@@ -1,0 +1,2 @@
+Exact probability,Estimated probability,Absolute error,Relative error (%),Qubits,Shots per circuit,Total shots,Grover powers,Grover applications,State preparations
+0.012046495708135681,0.012064728506301662,1.8232798165981196e-05,0.15135354386643374,7,4096,16384,"[0, 1, 2, 4]",28672,16384

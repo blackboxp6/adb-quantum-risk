@@ -1,0 +1,6 @@
+Method,Total runtime (seconds)
+Ideal statistical QMLAE,1.086546199861914
+Monte Carlo,1.2314775999999998
+Stratified MC,1.2985124
+Importance Sampling,1.5232032999999998
+Sobol,1.5552139900000002

@@ -1,0 +1,5 @@
+Grover iterations,Shots,State preparations per circuit,Oracle calls per circuit,Circuit depth,U gates per circuit,CX gates per circuit,Total gates per circuit,Total CX gates across shots,Total gates across shots,Total oracle calls across shots,Total state preparations across shots
+0,4096,1,0,241,127,120,247,491520,1011712,0,4096
+1,4096,3,1,1077,641,608,1249,2490368,5115904,4096,12288
+2,4096,5,2,1913,1155,1096,2251,4489216,9220096,8192,20480
+4,4096,9,4,3585,2183,2072,4255,8486912,17428480,16384,36864

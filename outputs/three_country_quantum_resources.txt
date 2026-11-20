@@ -1,0 +1,14 @@
+THREE-COUNTRY QUANTUM STATE PREPARATION
+==================================================
+Classical outcomes: 1000
+Qubits: 10
+Quantum dimension: 1024
+Unused states: 24
+Marked outcomes: 500
+Exact probability: 0.007263678323
+Fidelity: 1.000000000000156
+Maximum probability error: 1.192e-12
+Circuit depth: 2027
+Total gates: 2036
+U gates: 1023
+CX gates: 1013

@@ -1,0 +1,4 @@
+method,estimated_probability,relative_error_percent,classical_samples_or_outcomes,quantum_measurement_shots,grover_applications,state_preparations,CX_gates,U_gates
+Exact classical enumeration,0.007263678322602449,0.0,1000,0,0,0,0,0
+Classical Monte Carlo,0.007267,0.04572996283735282,1000000,0,0,0,0,0
+Quantum MLAE,0.00721336683,0.6926448332092917,0,20480,61440,20480,225832960,205025280
